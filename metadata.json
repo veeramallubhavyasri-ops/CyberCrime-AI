@@ -1,0 +1,6 @@
+{
+  "name": "CyberCrime AI - Secure Auth & User Management",
+  "description": "Secure Firebase Authentication portal featuring user registration, login, email verification, password reset, and user account management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
